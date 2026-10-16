@@ -211,8 +211,7 @@
 
         <p>
             Mahasiswa Teknik Informatika yang tertarik
-            dengan pengembangan website, pemrograman,
-            dan teknologi.
+            dengan pengembangan website, database, dan teknologi.
         </p>
 
         <a href="#about" class="button">Kenali Saya</a>
