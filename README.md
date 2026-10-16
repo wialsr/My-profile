@@ -207,7 +207,7 @@
 
     <!-- Home -->
     <section class="hero" id="home">
-        <h1>Halo, Saya <span>Nama Kamu</span></h1>
+        <h1>Halo, Saya <span>DWI AULIA SARI</span></h1>
 
         <p>
             Mahasiswa Teknik Informatika yang tertarik
@@ -248,25 +248,25 @@
         </div>
     </section>
 
-    <!-- Proyek -->
-    <section id="projects">
-        <h2 class="section-title">Proyek Saya</h2>
+    <!-- Pengalaman -->
+    <section id="pengalaman">
+        <h2 class="section-title">Pengalaman Saya</h2>
 
-        <div class="project-container">
+        <div class="pengalaman-container">
 
-            <div class="project-card">
-                <h3>Website Restoran</h3>
+            <div class="Pengalaman-card">
+                <h3>Organisasi Teknik Informatika</h3>
                 <p>
-                    Website sederhana untuk menampilkan
-                    menu makanan dan informasi restoran
-                    menggunakan HTML dan CSS.
+                    Saya menjabat menjadi salah satu anggota humas, 
+                    saya yang sering terlibat dalam interaksi sosial dengan banyak orang 
+                    seperti anggota organisasi prodi lain.
                 </p>
-                <a href="https://github.com/USERNAME" target="_blank">
-                    Lihat Proyek
+                <a href="https://drive.google.com/file/d/1eqDOOsDwUFaauhBj-Nb7FMvfcSyfSJKa/view?usp=sharing" target="_blank">
+                    Lihat Dokumentasi
                 </a>
             </div>
 
-            <div class="project-card">
+            <div class="Pengalaman-card">
                 <h3>Aplikasi Kalkulator Java</h3>
                 <p>
                     Aplikasi kalkulator sederhana untuk
@@ -278,15 +278,14 @@
                 </a>
             </div>
 
-            <div class="project-card">
-                <h3>Sistem Database</h3>
+            <div class="pengalaman-card">
+                <h3>Essai Leon</h3>
                 <p>
-                    Proyek pengelolaan data menggunakan
-                    SQL untuk menyimpan dan mengolah
-                    informasi secara terstruktur.
+                    Mengikuti lomba essai leon dengan tema "ide gen z untuk transformasi indonesia emas 2045" 
+                    tingkat nasional yang diselenggarakan oleh Forum Cendekia Muda Indonesia (forcemi) tahun 2026 .
                 </p>
-                <a href="https://github.com/USERNAME" target="_blank">
-                    Lihat Proyek
+                <a href="https://drive.google.com/file/d/1bVmtoLeBns1t4iSGryoSy4wyT2qW9yIV/view?usp=drive_link" target="_blank">
+                    Lihat Sertifikat
                 </a>
             </div>
 
@@ -296,19 +295,18 @@
     <!-- Kontak -->
     <section class="contact" id="contact">
         <h2 class="section-title">Hubungi Saya</h2>
-
         <p>
             Tertarik bekerja sama atau ingin mengenal saya lebih jauh?
         </p>
 
-        <a href="mailto:emailkamu@gmail.com" class="button">
+        <a href="Dwi Aulia Sari:dwialiasari4@gmail.com" class="button">
             Kirim Email
         </a>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Nama Kamu. Dibuat dengan HTML dan CSS.</p>
+        <p>&copy; 2026 Dwi aulia. Dibuat dengan HTML dan CSS.</p>
     </footer>
 
 </body>
