@@ -200,7 +200,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">Tentang</a></li>
             <li><a href="#skills">Keahlian</a></li>
-            <li><a href="#projects">Proyek</a></li>
+            <li><a href="#experience">Proyek</a></li>
             <li><a href="#contact">Kontak</a></li>
         </ul>
     </nav>
@@ -208,6 +208,7 @@
     <!-- Home -->
     <section class="hero" id="home">
         <h1>Halo, Saya <span>DWI AULIA SARI</span></h1>
+        <h1>NPM : 248160053 (A1)</h1>
 
         <p>
             Mahasiswa Teknik Informatika yang tertarik
@@ -246,12 +247,12 @@
     </section>
 
     <!-- Pengalaman -->
-    <section id="pengalaman">
+    <section id="experince">
         <h2 class="section-title">Pengalaman Saya</h2>
 
-        <div class="pengalaman-container">
+        <div class="experince-container">
 
-            <div class="Pengalaman-card">
+            <div class="experince-card">
                 <h3>Organisasi Teknik Informatika</h3>
                 <p>
                     Saya menjabat menjadi salah satu anggota humas, 
@@ -263,20 +264,19 @@
                 </a>
             </div>
 
-            <div class="Pengalaman-card">
-                <h3>Aplikasi Kalkulator Java</h3>
+            <div class="experince-card">
+                <h3>Fundamental Cybersecurity</h3>
                 <p>
-                    Aplikasi kalkulator sederhana untuk
-                    melakukan operasi penjumlahan,
-                    pengurangan, perkalian, dan pembagian.
+                    Mengikutin pelatihan Fundamental Cybersecurity yang diselenggarakan oleh 
+                    Pusat Pengembangan Talenta Digital.
                 </p>
-                <a href="https://github.com/USERNAME" target="_blank">
+                <a href="https://drive.google.com/file/d/1OvB2H88w8nGOQvG7kkbuAcQaGsviFLyU/view?usp=drive_link" target="_blank">
                     Lihat Proyek
                 </a>
             </div>
 
-            <div class="pengalaman-card">
-                <h3>Essai Leon</h3>
+            <div class="experince-card">
+                <h3>Lomba Essai Nasional</h3>
                 <p>
                     Mengikuti lomba essai leon dengan tema "ide gen z untuk transformasi indonesia emas 2045" 
                     tingkat nasional yang diselenggarakan oleh Forum Cendekia Muda Indonesia (forcemi) tahun 2026 .
@@ -295,15 +295,13 @@
         <p>
             Tertarik bekerja sama atau ingin mengenal saya lebih jauh?
         </p>
-
-        <a href="dwialiasari4@gmail.com" class="button">
-            Kirim Email
-        </a>
+        <p> Hubungi email dibawah</p>
+        <p> dwialiasari4@gmail.com</p>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 Dwi aulia. Dibuat dengan HTML dan CSS.</p>
+        <p>&copy; 2026 dwi aulia. Dibuat dengan HTML dan CSS.</p>
     </footer>
 
 </body>
