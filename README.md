@@ -241,10 +241,7 @@
 
         <div class="skills">
             <div class="skill">HTML</div>
-            <div class="skill">CSS</div>
-            <div class="skill">Java</div>
             <div class="skill">SQL / Database</div>
-            <div class="skill">Python</div>
         </div>
     </section>
 
@@ -299,7 +296,7 @@
             Tertarik bekerja sama atau ingin mengenal saya lebih jauh?
         </p>
 
-        <a href="Dwi Aulia Sari:dwialiasari4@gmail.com" class="button">
+        <a href="dwialiasari4@gmail.com" class="button">
             Kirim Email
         </a>
     </section>
