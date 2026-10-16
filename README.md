@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portofolio Saya</title>
+    <title>Portofolio Diri saya</title>
 
     <style>
         * {
@@ -271,7 +271,7 @@
                     Pusat Pengembangan Talenta Digital.
                 </p>
                 <a href="https://drive.google.com/file/d/1OvB2H88w8nGOQvG7kkbuAcQaGsviFLyU/view?usp=drive_link" target="_blank">
-                    Lihat Proyek
+                    Lihat Sertifikat
                 </a>
             </div>
 
